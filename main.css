@@ -9,7 +9,7 @@ h1 {
 
 }
 body {
-  background-image: url("floral.jpg");
+  background-image: url("../floral.jpg");
   background-repeat: repeat;
 }
 	.container{
